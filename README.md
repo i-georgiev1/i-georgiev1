@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a 12th-grade high school student enrolled in an Applied Programming class, where I am honing my skills in coding and problem-solving. In addition to my studies, I work as a part-time Junior System Administrator, gaining hands-on experience in managing IT systems and troubleshooting technical issues.<br><br>I am currently expanding my knowledge in web development and DevOps, exploring modern tools, frameworks, and best practices to build robust and efficient solutions. My passion for technology drives me to continuously learn and grow in the ever-evolving field of IT.<br>
+SysAdmin, IT Student
+<br>
 
 
 ## 🌐 Socials:
